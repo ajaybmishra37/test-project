@@ -1,11 +1,2 @@
-hhooooo
-asasas as
-a
-s
-as
-a
-sa
-sa
-s
-as
-a
+This text file is for dev changes currently.
+
